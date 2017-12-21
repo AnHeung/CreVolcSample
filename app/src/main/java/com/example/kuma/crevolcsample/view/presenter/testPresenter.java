@@ -6,4 +6,8 @@ package com.example.kuma.crevolcsample.view.presenter;
 
 public class testPresenter {
 
+    //테스트
+
+
+
 }
