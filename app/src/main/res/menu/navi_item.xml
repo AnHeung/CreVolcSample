@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Application">
+
+        <menu>
+
+            <item
+                android:id="@+id/item_notify"
+                android:icon="@android:drawable/ic_menu_agenda"
+                android:title="보유KRW"
+                >
+            </item>
+
+            <item
+                android:id="@+id/item_picture"
+                android:icon="@android:drawable/ic_menu_gallery"
+                android:title="총 보유자산">
+            </item>
+
+        </menu>
+
+    </item>
+
+    <item android:title="preference">
+
+        <menu>
+
+            <item
+                android:id="@+id/item_preference"
+                android:icon="@android:drawable/ic_menu_preferences"
+                android:title="환경설정">
+            </item>
+
+        </menu>
+
+
+    </item>
+
+</menu>

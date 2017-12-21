@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CreVolcSample</string>
+    <string name="navi_detail">상세정보</string>
+    <string name="navi_coin_status">코인동향</string>
+    <string name="navi_alarm_setting">알림설정</string>
+    <string name="navi_terms">이용안내</string>
+    <string name="navi_customer_center">고객센터</string>
+    <string name="navi_settings">설정</string>
+    <string name="navi_my_krw_money">보유KRW</string>
+    <string name="navi_my_total_money">총 보유자산</string>
+    <string name="navi_total_buying">총매수</string>
+    <string name="navi_evaluation">총평가</string>
+    <string name="navi_valuation_gain_loss">평가손익</string>
+    <string name="navi_incoming_profits">수익률</string>
+    <string name="main_investment_btn">거래소</string>
+    <string name="main_investment_list_btn">거래내역</string>
+    <string name="main_investment_status_btn">투자현황</string>
+    <string name="main_wallet_btn">지갑</string>
+    <string name="main_myinfo">내정보</string>
+</resources>
